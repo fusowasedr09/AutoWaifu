@@ -4,5 +4,5 @@
 # Requirements
 ・Python3.6以降  
 ・Selenium  
-・Google Chrome  
-・Chromeのバージョンに合ったchromedriver (https://chromedriver.chromium.org/downloads)
+・Google Chrome（バージョンを確認しておくこと）  
+・*Chromeのバージョンに合った*chromedriver (https://chromedriver.chromium.org/downloads)
